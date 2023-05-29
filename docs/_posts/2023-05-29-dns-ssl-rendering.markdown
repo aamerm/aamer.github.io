@@ -25,7 +25,7 @@ When you type in domain.com into your browser, the browser first needs to figure
 https://www.cloudflare.com/learning/dns/what-is-dns/
 DNS lookup is the process by which the browser resolves the domain name to an IP address.
 DNS lookup is done by the browser by sending a DNS query to a DNS server.
-({{/assets/images/dns.png | relative_url}})
+![]({{"/assets/images/dns.jpeg" | relative_url}})
 
-({{/assets/images/http_history.png | relative_url}})
-({{/assets/images/https.jpeg | relative_url}})
+![]({{"/assets/images/http_history.png" | relative_url}})
+![]({{"/assets/images/https.jpeg" | relative_url}})
